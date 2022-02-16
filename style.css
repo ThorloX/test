@@ -1,0 +1,141 @@
+body {
+	background: linear-gradient(#111, #112);
+	margin: 20px;
+}
+
+button {
+	font-size: 50px;
+	margin: 20px;
+}
+.buttonStyle0 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 40px;
+	letter-spacing: 2px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	cursor: pointer;
+	border: 3px solid;
+	padding: 0.25em 0.5em;
+	box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,
+		5px 5px 0px 0px;
+	position: relative;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	width: 10rem;
+	height: 10rem;
+	background-color: gray;
+	margin: 5px;
+}
+button:hover {
+	box-shadow: 0px 0px 0px 0px;
+	top: 5px;
+	left: 5px;
+	background-color: red;
+}
+.buttonStyle1 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 40px;
+	letter-spacing: 2px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	cursor: pointer;
+	border: 3px solid;
+	padding: 0.25em 0.5em;
+	box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,
+		5px 5px 0px 0px;
+	position: relative;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	width: 10rem;
+	height: 10rem;
+	background-color: gray;
+	margin: 5px;
+}
+.buttonStyle2 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 40px;
+	letter-spacing: 2px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	cursor: pointer;
+	border: 3px solid;
+	padding: 0.25em 0.5em;
+	box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,
+		5px 5px 0px 0px;
+	position: relative;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	width: 10rem;
+	height: 10rem;
+	background-color: gray;
+	margin: 5px;
+}
+.buttonStyle3 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 40px;
+	letter-spacing: 2px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	cursor: pointer;
+	border: 3px solid;
+	padding: 0.25em 0.5em;
+	box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,
+		5px 5px 0px 0px;
+	position: relative;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	width: 10rem;
+	height: 10rem;
+	background-color: gray;
+	margin: 5px;
+}
+.buttonStyle4 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 40px;
+	letter-spacing: 2px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	cursor: pointer;
+	border: 3px solid;
+	padding: 0.25em 0.5em;
+	box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,
+		5px 5px 0px 0px;
+	position: relative;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	width: 10rem;
+	height: 10rem;
+	background-color: gray;
+	margin: 5px;
+}
+.buttonStyle5 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 40px;
+	letter-spacing: 2px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	cursor: pointer;
+	border: 3px solid;
+	padding: 0.25em 0.5em;
+	box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,
+		5px 5px 0px 0px;
+	position: relative;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	width: 10rem;
+	height: 10rem;
+	background-color: gray;
+	margin: 5px;
+}
